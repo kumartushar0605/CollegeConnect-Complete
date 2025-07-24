@@ -1,0 +1,120 @@
+{
+    "AtCoder": [
+        {
+            "platform": "AtCoder",
+            "contestName": "Ⓐ ◉ Hitachi Vantara Programming Contest 2024（AtCoder Beginner Contest 368）",
+            "contestLink": "https://atcoder.jp/contests/abc368",
+            "contestDate": "2024-08-24",
+            "contestTime": "12:00:00",
+            "contestDuration": "1 hour 40 minutes"
+        },
+        {
+            "platform": "AtCoder",
+            "contestName": "Ⓐ ◉ Marubeni Programming Contest 2024 (AtCoder Regular Contest 183)",
+            "contestLink": "https://atcoder.jp/contests/arc183",
+            "contestDate": "2024-08-25",
+            "contestTime": "12:00:00",
+            "contestDuration": "2 hours 0 minutes"
+        },
+        {
+            "platform": "AtCoder",
+            "contestName": "Ⓐ ◉ AtCoder Beginner Contest 369",
+            "contestLink": "https://atcoder.jp/contests/abc369",
+            "contestDate": "2024-08-31",
+            "contestTime": "12:00:00",
+            "contestDuration": "1 hour 40 minutes"
+        },
+        {
+            "platform": "AtCoder",
+            "contestName": "Ⓐ ◉ Toyota Programming Contest 2024#9（AtCoder Beginner Contest 370）",
+            "contestLink": "https://atcoder.jp/contests/abc370",
+            "contestDate": "2024-09-07",
+            "contestTime": "12:00:00",
+            "contestDuration": "1 hour 40 minutes"
+        },
+        {
+            "platform": "AtCoder",
+            "contestName": "Ⓐ ◉ AtCoder Beginner Contest 371",
+            "contestLink": "https://atcoder.jp/contests/abc371",
+            "contestDate": "2024-09-14",
+            "contestTime": "12:00:00",
+            "contestDuration": "1 hour 40 minutes"
+        },
+        {
+            "platform": "AtCoder",
+            "contestName": "Ⓗ ◉ 第11回 Asprova プログラミングコンテスト（AtCoder Heuristic Contest 037）",
+            "contestLink": "https://atcoder.jp/contests/ahc037",
+            "contestDate": "2024-09-15",
+            "contestTime": "10:00:00",
+            "contestDuration": "4 hours 0 minutes"
+        },
+        {
+            "platform": "AtCoder",
+            "contestName": "Ⓐ ◉ UNIQUE VISION Programming Contest 2024 Autumn (AtCoder Beginner Contest 372)",
+            "contestLink": "https://atcoder.jp/contests/abc372",
+            "contestDate": "2024-09-21",
+            "contestTime": "12:00:00",
+            "contestDuration": "1 hour 40 minutes"
+        }
+    ],
+    "Codeforces": [
+        {
+            "platform": "Codeforces",
+            "contestName": "Codeforces Round (Div. 2)",
+            "contestLink": "https://codeforces.com/contests/2005",
+            "contestDate": "2024-09-14",
+            "contestTime": "14:35:00",
+            "contestDuration": "2:00"
+        },
+        {
+            "platform": "Codeforces",
+            "contestName": "Codeforces Round (Div. 3)",
+            "contestLink": "https://codeforces.com/contests/2008",
+            "contestDate": "2024-09-01",
+            "contestTime": "14:35:00",
+            "contestDuration": "2:15"
+        },
+        {
+            "platform": "Codeforces",
+            "contestName": "Codeforces Round (Div. 1)",
+            "contestLink": "https://codeforces.com/contests/2006",
+            "contestDate": "2024-08-30",
+            "contestTime": "14:35:00",
+            "contestDuration": "2:30"
+        },
+        {
+            "platform": "Codeforces",
+            "contestName": "Codeforces Round (Div. 2)",
+            "contestLink": "https://codeforces.com/contests/2007",
+            "contestDate": "2024-08-30",
+            "contestTime": "14:35:00",
+            "contestDuration": "2:30"
+        },
+        {
+            "platform": "Codeforces",
+            "contestName": "Codeforces Round 968 (Div. 2)",
+            "contestLink": "https://codeforces.com/contests/2003",
+            "contestDate": "2024-08-25",
+            "contestTime": "14:35:00",
+            "contestDuration": "2:00"
+        }
+    ],
+    "HackerEarth": [
+        {
+            "platform": "HackerEarth",
+            "contestName": "Rakathon 2024",
+            "contestLink": "https://www.hackerearth.com/challenges/hackathon/rakathon2024/",
+            "contestDate": "2024-08-30",
+            "contestTime": "11:00:00",
+            "contestDuration": "1 Days 8 Hours 30 Minutes"
+        },
+        {
+            "platform": "HackerEarth",
+            "contestName": "UST D3CODE Campus Hackathon'24",
+            "contestLink": "https://www.hackerearth.com/challenges/hackathon/ust-d3code-campus-hackathon24/",
+            "contestDate": "2024-09-13",
+            "contestTime": "09:00:00",
+            "contestDuration": "25 Days"
+        }
+    ]
+}
