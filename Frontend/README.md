@@ -45,15 +45,25 @@ Both learners and mentors grow in knowledge, communication, and confidence.
 
 ## 📸 Project Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<p align="center">
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+  <!-- Row 1 -->
+  <img src="./Frontend/public/ft1.png" width="700" style="border-radius: 14px; margin: 20px; box-shadow: 0 4px 14px rgba(0,0,0,0.15);" />
+  <img src="./Frontend/public/ft2.png" width="700" style="border-radius: 14px; margin: 20px; box-shadow: 0 4px 14px rgba(0,0,0,0.15);" />
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+  <!-- Row 2 -->
+  <img src="./Frontend/public/ft3.png" width="700" style="border-radius: 14px; margin: 20px; box-shadow: 0 4px 14px rgba(0,0,0,0.15);" />
+  <img src="./Frontend/public/ft4.png" width="700" style="border-radius: 14px; margin: 20px; box-shadow: 0 4px 14px rgba(0,0,0,0.15);" />
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+  <!-- Row 3 -->
+  <img src="./Frontend/public/ft5.png" width="700" style="border-radius: 14px; margin: 20px; box-shadow: 0 4px 14px rgba(0,0,0,0.15);" />
+  <img src="./Frontend/public/ft6.png" width="700" style="border-radius: 14px; margin: 20px; box-shadow: 0 4px 14px rgba(0,0,0,0.15);" />
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+  <!-- Row 4 -->
+  <img src="./Frontend/public/ft7.png" width="700" style="border-radius: 14px; margin: 20px; box-shadow: 0 4px 14px rgba(0,0,0,0.15);" />
+  <img src="./Frontend/public/ft8.png" width="700" style="border-radius: 14px; margin: 20px; box-shadow: 0 4px 14px rgba(0,0,0,0.15);" />
+
+</p>
 
 ## 🛠️ Tech Stack
 
