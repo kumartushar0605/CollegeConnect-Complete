@@ -45,44 +45,94 @@ Both learners and mentors grow in knowledge, communication, and confidence.
 
 ## 📸 Project Screenshots
 
+<!-- Two images per row — paste into README.md -->
 <p align="center">
 
-  <!-- Row 1 -->
-  ### Student Section
-  <img src="./Frontend/public/ft1.png" width="700" style="border-radius: 14px; margin: 20px; box-shadow: 0 4px 14px rgba(0,0,0,0.15);" />
-  <img src="./Frontend/public/ft2.png" width="700" style="border-radius: 14px; margin: 20px; box-shadow: 0 4px 14px rgba(0,0,0,0.15);" />
+<table>
+  <tr>
+    <td align="center">
+      <img src="./Frontend/public/ft1.png" width="420" alt="ft3" style="border-radius:14px; box-shadow:0 4px 14px rgba(0,0,0,0.15); margin:8px;" />
+    </td>
+    <td align="center">
+      <img src="./Frontend/public/ft2.png" width="420" alt="ft4" style="border-radius:14px; box-shadow:0 4px 14px rgba(0,0,0,0.15); margin:8px;" />
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center">
+      <img src="./Frontend/public/ft3.png" width="420" alt="ft3" style="border-radius:14px; box-shadow:0 4px 14px rgba(0,0,0,0.15); margin:8px;" />
+    </td>
+    <td align="center">
+      <img src="./Frontend/public/ft4.png" width="420" alt="ft4" style="border-radius:14px; box-shadow:0 4px 14px rgba(0,0,0,0.15); margin:8px;" />
+    </td>
+  </tr>
 
-  <!-- Row 2 -->
-  <img src="./Frontend/public/ft3.png" width="700" style="border-radius: 14px; margin: 20px; box-shadow: 0 4px 14px rgba(0,0,0,0.15);" />
-  <img src="./Frontend/public/ft4.png" width="700" style="border-radius: 14px; margin: 20px; box-shadow: 0 4px 14px rgba(0,0,0,0.15);" />
+  <tr>
+    <td align="center">
+      <img src="./Frontend/public/ft5.png" width="420" alt="ft5" style="border-radius:14px; box-shadow:0 4px 14px rgba(0,0,0,0.15); margin:8px;" />
+    </td>
+    <td align="center">
+      <img src="./Frontend/public/ft6.png" width="420" alt="ft6" style="border-radius:14px; box-shadow:0 4px 14px rgba(0,0,0,0.15); margin:8px;" />
+    </td>
+  </tr>
 
-  <!-- Row 3 -->
-  <img src="./Frontend/public/ft5.png" width="700" style="border-radius: 14px; margin: 20px; box-shadow: 0 4px 14px rgba(0,0,0,0.15);" />
-  <img src="./Frontend/public/ft6.png" width="700" style="border-radius: 14px; margin: 20px; box-shadow: 0 4px 14px rgba(0,0,0,0.15);" />
+  <tr>
+    <td align="center">
+      <img src="./Frontend/public/ft8.png" width="420" alt="ft8" style="border-radius:14px; box-shadow:0 4px 14px rgba(0,0,0,0.15); margin:8px;" />
+    </td>
+    <td align="center">
+      <img src="./Frontend/public/ft7.png" width="420" alt="ft7" style="border-radius:14px; box-shadow:0 4px 14px rgba(0,0,0,0.15); margin:8px;" />
+    </td>
+  </tr>
 
-  <!-- Row 4 -->
-  <img src="./Frontend/public/ft8.png" width="700" style="border-radius: 14px; margin: 20px; box-shadow: 0 4px 14px rgba(0,0,0,0.15);" />
-  <img src="./Frontend/public/ft7.png" width="700" style="border-radius: 14px; margin: 20px; box-shadow: 0 4px 14px rgba(0,0,0,0.15);" />
+  <tr>
+    <td align="center">
+      <img src="./Frontend/public/ft9.png" width="420" alt="ft9" style="border-radius:14px; box-shadow:0 4px 14px rgba(0,0,0,0.15); margin:8px;" />
+    </td>
+    <td align="center">
+      <img src="./Frontend/public/ft10.png" width="420" alt="ft10" style="border-radius:14px; box-shadow:0 4px 14px rgba(0,0,0,0.15); margin:8px;" />
+    </td>
+  </tr>
 
+  <tr>
+    <td align="center">
+      <img src="./Frontend/public/ft11.png" width="420" alt="ft11" style="border-radius:14px; box-shadow:0 4px 14px rgba(0,0,0,0.15); margin:8px;" />
+    </td>
+    <td align="center">
+      <img src="./Frontend/public/ft12.png" width="420" alt="ft12" style="border-radius:14px; box-shadow:0 4px 14px rgba(0,0,0,0.15); margin:8px;" />
+    </td>
+  </tr>
 
-  <img src="./Frontend/public/ft9.png" width="700" style="border-radius: 14px; margin: 20px; box-shadow: 0 4px 14px rgba(0,0,0,0.15);" />
-  <img src="./Frontend/public/ft10.png" width="700" style="border-radius: 14px; margin: 20px; box-shadow: 0 4px 14px rgba(0,0,0,0.15);" />
+  <tr>
+    <td align="center">
+      <img src="./Frontend/public/ft13.png" width="420" alt="ft13" style="border-radius:14px; box-shadow:0 4px 14px rgba(0,0,0,0.15); margin:8px;" />
+    </td>
+    <td align="center">
+      <img src="./Frontend/public/ft14.png" width="420" alt="ft14" style="border-radius:14px; box-shadow:0 4px 14px rgba(0,0,0,0.15); margin:8px;" />
+    </td>
+  </tr>
 
-  <img src="./Frontend/public/ft11.png" width="700" style="border-radius: 14px; margin: 20px; box-shadow: 0 4px 14px rgba(0,0,0,0.15);" />
-  <img src="./Frontend/public/ft12.png" width="700" style="border-radius: 14px; margin: 20px; box-shadow: 0 4px 14px rgba(0,0,0,0.15);" />
+  <tr>
+    <td align="center">
+      <img src="./Frontend/public/ft15.png" width="420" alt="ft15" style="border-radius:14px; box-shadow:0 4px 14px rgba(0,0,0,0.15); margin:8px;" />
+    </td>
+    <td align="center">
+      <img src="./Frontend/public/ft16.png" width="420" alt="ft16" style="border-radius:14px; box-shadow:0 4px 14px rgba(0,0,0,0.15); margin:8px;" />
+    </td>
+  </tr>
 
-  <img src="./Frontend/public/ft13.png" width="700" style="border-radius: 14px; margin: 20px; box-shadow: 0 4px 14px rgba(0,0,0,0.15);" />
-  <img src="./Frontend/public/ft14.png" width="700" style="border-radius: 14px; margin: 20px; box-shadow: 0 4px 14px rgba(0,0,0,0.15);" />
-
-
-  <img src="./Frontend/public/ft15.png" width="700" style="border-radius: 14px; margin: 20px; box-shadow: 0 4px 14px rgba(0,0,0,0.15);" />
-  <img src="./Frontend/public/ft16.png" width="700" style="border-radius: 14px; margin: 20px; box-shadow: 0 4px 14px rgba(0,0,0,0.15);" />
-
-
-  <img src="./Frontend/public/ft17.png" width="700" style="border-radius: 14px; margin: 20px; box-shadow: 0 4px 14px rgba(0,0,0,0.15);" />
-  <img src="./Frontend/public/ft18.png" width="700" style="border-radius: 14px; margin: 20px; box-shadow: 0 4px 14px rgba(0,0,0,0.15);" />
+  <tr>
+    <td align="center">
+      <img src="./Frontend/public/ft17.png" width="420" alt="ft17" style="border-radius:14px; box-shadow:0 4px 14px rgba(0,0,0,0.15); margin:8px;" />
+    </td>
+    <td align="center">
+      <img src="./Frontend/public/ft18.png" width="420" alt="ft18" style="border-radius:14px; box-shadow:0 4px 14px rgba(0,0,0,0.15); margin:8px;" />
+    </td>
+  </tr>
+</table>
 
 </p>
+
 
 ## 🛠️ Tech Stack
 
