@@ -121,46 +121,48 @@ const Intro = () => {
   const schoolStudent = () => navigate('/subs');
 
   const features = [
-    { icon: FaQuestionCircle, text: "Doubts cleared in minutes", color: "blue.400" },
-    { icon: FaVideo, text: "Live sessions with top educators", color: "green.400" },
-    { icon: FaRocket, text: "Empowering every learner", color: "purple.400" },
-    { icon: FaGlobe, text: "Your academic network awaits", color: "teal.400" }
-  ];
-
-const stats = [
-  { number: "Coming Soon", label: "Students to Empower", icon: FaUsers, color: "blue" },
-  { number: "Top Mentors", label: "Joining Soon", icon: FaChalkboardTeacher, color: "green" },
-  { number: "∞", label: "Learning Opportunities", icon: FaLightbulb, color: "yellow" },
-  { number: "Built With ❤️", label: "For Students, By Students", icon: FaStar, color: "orange" }
+  { icon: FaQuestionCircle, text: "Raise doubts instantly — college or global", color: "blue.400" },
+  { icon: FaVideo, text: "Live 1-on-1 sessions with student mentors", color: "green.400" },
+  { icon: FaRocket, text: "Learn and earn — help others", color: "purple.400" },
+  { icon: FaGlobe, text: "Connect with mentors across the world", color: "teal.400" }
 ];
 
 
-  const benefits = [
-    {
-      icon: FaClock,
-      title: "24/7 Support",
-      description: "Get help anytime, anywhere with our round-the-clock support system.",
-      gradient: "linear(to-br, blue.400, cyan.300)"
-    },
-    {
-      icon: FaBookOpen,
-      title: "Quality Content",
-      description: "Access curated content from top educators and institutions.",
-      gradient: "linear(to-br, purple.400, pink.300)"
-    },
-    {
-      icon: FaHeart,
-      title: "Personalized Learning",
-      description: "AI-powered recommendations tailored to your learning style.",
-      gradient: "linear(to-br, green.400, teal.300)"
-    },
-    {
-      icon: FaGraduationCap,
-      title: "Career Growth",
-      description: "Build skills that matter for your academic and professional journey.",
-      gradient: "linear(to-br, orange.400, yellow.300)"
-    }
-  ];
+const stats = [
+  { number: "Coming Soon", label: "Active Learners", icon: FaUsers, color: "blue" },
+  { number: "Register Now", label: "Student Mentors", icon: FaChalkboardTeacher, color: "green" },
+  { number: "∞", label: "Doubts You Can Solve", icon: FaLightbulb, color: "yellow" },
+  { number: "By Students ❤️", label: "Built for the Student Community", icon: FaStar, color: "orange" }
+];
+
+
+ const benefits = [
+  {
+    icon: FaClock,
+    title: "Instant Doubt Solving",
+    description: "Get your doubts solved anytime through live student-to-student sessions.",
+    gradient: "linear(to-br, blue.400, cyan.300)"
+  },
+  {
+    icon: FaBookOpen,
+    title: "Learn From Real Students",
+    description: "Mentors who recently learned the same topic guide you with practical clarity.",
+    gradient: "linear(to-br, purple.400, pink.300)"
+  },
+  {
+    icon: FaHeart,
+    title: "Earn While Teaching",
+    description: "Student mentors earn money for solving doubts in live sessions.",
+    gradient: "linear(to-br, green.400, teal.300)"
+  },
+  {
+    icon: FaGraduationCap,
+    title: "Grow Your Skills",
+    description: "Boost confidence, communication, and subject mastery by teaching others.",
+    gradient: "linear(to-br, orange.400, yellow.300)"
+  }
+];
+
 
   return (
     <Box

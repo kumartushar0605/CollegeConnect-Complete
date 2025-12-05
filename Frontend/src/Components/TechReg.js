@@ -92,7 +92,7 @@ const TechReg = () => {
         setMessage(data.success);
         // Small delay before navigation for better UX
         setTimeout(() => {
-          navigate('/det2', { state: { email, name } });
+          navigate('/detT', { state: { email, name } });
         }, 1000);
       } else {
         setMessage(data.message);
