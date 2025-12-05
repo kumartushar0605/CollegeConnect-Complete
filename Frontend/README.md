@@ -1,70 +1,104 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# 🚀 CollegeConnect : Student-to-Student Doubt Solving & Mentorship Platform
 
-## Available Scripts
+#### 🔗 Live Website: https://college-connect-frontend.vercel.app/
 
-In the project directory, you can run:
 
-### `npm start`
+A platform where students can teach other students, solve doubts in live video sessions, and earn money by mentoring peers — both within their college and globally.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+This project empowers learners to ask doubts instantly, connect with skilled student mentors, and grow together as a community.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## 🌟 Why This Platform?
+Patients often struggle to identify the correct medical department for their symptoms and cannot easily find nearby hospitals with real-time availability of beds, doctors, and facilities
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Traditional tutoring platforms rely on teachers. But students often learn best from other students who recently mastered the same concepts.
 
-### `npm run build`
+#### This platform enables:
+- 🧑‍🎓 Students to raise doubts (college-level or global)
+- 🧑‍🏫 Mentors to solve doubts live and get paid
+- 🌍 Global academic collaboration
+- 💸 Earning opportunities for student mentors
+- 🎥 Live meets for clear, real-time explanations
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### A true “Students Helping Students” ecosystem.
+## ✨ Key Features
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+#### 🔵 Instant Doubt Resolution
+Raise your doubt anytime — choose college-specific or global visibility.
+#### 🟢 Live 1-on-1 Mentorship
+Connect with verified student mentors through live video sessions.
+#### 🟣 Learn & Earn
+Mentors earn for each solved doubt. Students get high-quality help at affordable rates.
+#### 🌐 Global Learning Community
+Collaborate with students from different colleges, backgrounds, and skill levels.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 💎 Benefits
+#### ⏱ 24/7 Availability
+Get your doubts solved anytime, day or night.
+#### 📚 Learn From Real Students
+Mentors who recently studied the same topic explain it with simplicity.
+#### ❤️ Earn Money While Studying
+Mentors receive payments for every doubt they solve.
+#### 🎓 Improve Academic Skills
+Both learners and mentors grow in knowledge, communication, and confidence.
 
-### `npm run eject`
+## 📸 Project Screenshots
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
-## Learn More
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 🛠️ Tech Stack
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+| Category             | Technologies                                      |
+|----------------------|---------------------------------------------------|
+| 💻 **Frontend**      | React.js, Chakra UI                               |
+| ⚙️ **Backend**       | Node.js, Express.js, RESTful APIs                 |
+| 🛢️ **Database**      | MongoDB                                           |
+| 📦 **File Handling** | Multer, Cloudinary                                |
+| ☁️ **Deployment**    | Vercel (Frontend), Render (Backend)               |
 
-### Code Splitting
+##  📂 Project Structure
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+```
+CollegeConnect-Complete/
+│
+├── Backend/
+│   ├── controllers/        # Business logic for routes
+│   ├── data/               # Static or seed data
+│   ├── middlewares/        # Auth, validation, error handlers
+│   ├── models/             # Mongoose models (MongoDB schemas)
+│   ├── routes/             # API routes (REST endpoints)
+│   ├── utils/              # Helper functions (Cloudinary, tokens, etc.)
+│   ├── .env                # Environment variables
+│   ├── app.js              # Main Express server setup
+│   ├── package.json        # Backend dependencies
+│   └── package-lock.json
+│
+├── Frontend/
+│   ├── public/             # Static files
+│   ├── src/
+│   │   ├── components/     # Reusable UI components
+│   │   ├── pages/          # Page-level components / screens
+│   │   ├── context/        # Global state / auth context
+│   │   ├── utils/          # Helper functions, API calls
+│   │   ├── assets/         # Images, icons
+│   │   └── index.js        # Application entry point
+│   ├── README.md           # Auto-generated CRA readme
+│   ├── package.json        # Frontend dependencies
+│   └── package-lock.json
+│
+├── README.md               # Main project documentation
+├── .gitignore
+└── main branch
 
-### Analyzing the Bundle Size
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
